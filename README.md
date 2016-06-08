@@ -22,6 +22,8 @@ You can create a default lambda function in the aws console first to set up a de
 
 ## deploy
 
+```sh
 $ `npm install gulp -g` if you don't have gulp installed
 
 $ `gulp deploy`
+```
