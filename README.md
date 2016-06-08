@@ -3,6 +3,12 @@ an example of using aws-lambda slack and gulp to deploy simple node.js functions
 
 ## usage
 
+install the dependencies
+
+```sh
+$ `npm install`
+```
+
 copy the lambda.example to lambda.js config
 
 ```sh
