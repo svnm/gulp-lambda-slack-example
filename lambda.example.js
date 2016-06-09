@@ -8,5 +8,5 @@ module.exports = {
   timeout: 5,
   memorySize: 513,
   publish: true,
-  runtime: 'nodejs'
+  runtime: 'nodejs4.3'
 }
